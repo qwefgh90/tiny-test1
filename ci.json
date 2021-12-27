@@ -1,0 +1,5 @@
+{
+  "image":"centos:centos8",
+  "cmd":["echo \"echo A newFile was created and running.\" > newFile",
+        "sh a"]
+}
